@@ -15,3 +15,9 @@ This repository is an entry for the make.fun bounty **Sum up 23 November's world
 - **South Korea** — The education minister resigns amid an AI cheating scandal at the national exams.
 - **Lisbon** — Thousands march across Portugal's capital over rising living costs.
 - **Also Today** — Nepal PM Balendra Shah holds talks with Prime Minister Modi in New Delhi, and India post a record 720/9 declared in the Wellington Test.
+
+## Verification
+
+- **Format & Size:** `entry.png` is a 1024x1024 PNG, 931189 bytes.
+- **SHA-256:** `14b0c51d088f4131f4c393bb1ad38a0b5a57122be8c280aa8a410e7bfd2ef25e`
+- **Reproducibility:** Running `main.py` twice produces byte-identical output.
